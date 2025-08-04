@@ -1,5 +1,5 @@
 # 💫 About Me:
-Me chamo Victor Manuel Fernandes Anacleto, tenho 19 anos e sou natural do Rio Grande do Norte, mas atualmente moro na Paraíba.<br>Conclui meu ensino médio no IFPB - Campus Cajazeiras, como técnico em edificações, mas atualmente curso BITI (Bacharelado interdisciplinar em tecnologia da informação) na UFERSA - Campus Pau dos Ferros.<br>Tenho muito interesse em testes de software, especialmente os baseados em modelos e programação no geral.
+Me chamo Victor Manuel Fernandes Anacleto, tenho 19 anos e sou natural do Rio Grande do Norte, mas atualmente moro na Paraíba.<br>Conclui meu ensino médio no IFPB - Campus Cajazeiras, como técnico em edificações, mas atualmente curso BITI (Bacharelado interdisciplinar em tecnologia da informação) na UFERSA - Campus Pau dos Ferros.<br>Tenho muito interesse em testes de software, especialmente os baseados em modelos e programação no geral (especialmente em JAVA).
 
 
 ## 🌐 Socials:
