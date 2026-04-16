@@ -1,5 +1,5 @@
 # 💫 About Me:
-Me chamo Victor Manuel Fernandes Anacleto, tenho 19 anos e sou natural do Rio Grande do Norte, mas atualmente moro na Paraíba.<br>Conclui meu ensino médio no IFPB - Campus Cajazeiras, como técnico em edificações, mas atualmente curso BITI (Bacharelado interdisciplinar em tecnologia da informação) na UFERSA - Campus Pau dos Ferros.<br> Visando o curso de segundo ciclo de engrenharia da computação. Tenho muito interesse em IA, testes e em programação no geral (especialmente em C).
+Victor Manuel Fernandes Anacleto, tenho 19 anos.<br> Atualmente curso BITI (Bacharelado interdisciplinar em tecnologia da informação) na UFERSA - Campus Pau dos Ferros.<br> Visando o curso de segundo ciclo de engrenharia da computação. Tenho muito interesse em IA, testes e em programação no geral (especialmente em C).
 
 
 ## 🌐 Socials:
@@ -10,5 +10,3 @@ Me chamo Victor Manuel Fernandes Anacleto, tenho 19 anos e sou natural do Rio Gr
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=viteihehe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
